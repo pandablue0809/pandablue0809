@@ -156,61 +156,27 @@
 
 
 <p align="center">
-<a href="https://wakatime.com/@Goblin8888"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Goblin&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@Goblin's wakatime stats"/></a>
-<a href="https://github.com/PrinceGoblinTech?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=Aleksey-Voko&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@Goblin's trophy stats"/></a>
+<a href=""><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Goblin&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@Goblin's wakatime stats"/></a>
+<a href=""><img src="https://github-profile-trophy.vercel.app/?username=Aleksey-Voko&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@Goblin's trophy stats"/></a>
 </p>
 
 
-<a href="https://rextester.com/l/python3_online_compiler"><img src="./assets/colored.png"  width="100%" alt="python3_online_compiler"/></a>
+<a href=""><img src="./assets/colored.png"  width="100%" alt="python3_online_compiler"/></a>
 
 
 
 
 
 <p align="center">
-<a href="https://gist.github.com/PrinceGoblinTech"><img src="https://profile-counter.glitch.me/{Aleksey-Voko}/count.svg" alt="PrinceGoblinTech :: Visitor's Count" /></a>
+<a href=""><img src="https://profile-counter.glitch.me/{Aleksey-Voko}/count.svg" alt="PrinceGoblinTech :: Visitor's Count" /></a>
 </p>
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
 
-# Reach out to me #
-
-
-
-To contact me.
-
-
-![](https://github.com/seniorcoder72/seniorcoder72.github.io/blob/master/screenshots/screenshot.gif?raw=true)
-
-<table>
-  <tr>
-    <td>
-      
-- [Welcome!](#AuWaiLun-welcome)
-  - [My personal values and work ethic](#my-personal-values-and-work-ethic)
-  - [Rapidfire](#rapidfire)
-  - [Languages and Tools](#languages-and-tools)
-- [📊 GitHub Stats:](#-github-stats)
-    - [🏆 GitHub Trophies](#-github-trophies)
-    - [✍️ Random Dev Quote](#️-random-dev-quote)
-    - [🔝 Top Contributed Repo](#-top-contributed-repo)
-    - [😂 Random Dev Meme](#-random-dev-meme)
-- [Do you want to see my past work?](#do-you-want-to-see-my-past-work)
-
-    </td>
-    <td>    
-      <a href="http://au-portfolio.great-site.net"><img src="https://github.com/seniorcoder72/dynamic-post-nextjs/blob/master/public/profile-logo.png"/></a>
-      https://trademarktoday-nextjs.vercel.app <br/>
-      https://trademarktoday-nextjs-rbxk.vercel.app
-    </td>
-  </tr>
-</table>
-
-
 # Welcome!
   
 
-<a href="http://au-portfolio.great-site.net" target="_blank">
+<a href="" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
   
@@ -258,7 +224,7 @@ To contact me.
 ## Rapidfire  
 <table><tr><td valign="top" width="100%">
 
-- 🔭 I’m currently working on [Business Website Deveopment](https://github.com/auwailun)  
+- 🔭 I’m currently working on [Business Website Deveopment]()  
   
 
 - 🌱 I’m currently building business websites using Next.js, Typescript, Tailwind CSS.  
