@@ -1,8 +1,6 @@
 # 💫 About Me
-I am a  Full Stack & Blockchain engineer with a bachelor's in computer science and 6+ years of hands on experience.
-I am highly motivated and professional with 6+ years of professional experience in developing modern web applications using MERN, AWS, etc.
-Also I have hands on experiendce in developing Smart Contract, DeFi and Tokenomics related dApps and NFT Marketplaces using Solidity, Rust, Web3.js etc.
-I'm very eager to learn new technologies, keep good relationship with colleagues and really work hard to build vivid career in fast growing company.
+I'm a professional software developer with seven years of formal and informal experience, focusing on full-stack web application programming across multiple frameworks and architectures. I have a strong background in full-stack application development, including JavaScript, React, Next.js, Node.js, Vue, Python, and Django.
+My passion for AI extends to deep learning and computer vision. I am comfortable working in diverse teams, keeping up with field advancements, and discussing them with colleagues. I am creative and a problem solver who adapts quickly and efficiently, even under pressure.
 <br>
 - Like to make a development document with developing content to use that in the future.
 - Delivering perfect results by deadline.
