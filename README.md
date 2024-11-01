@@ -1,12 +1,7 @@
 # 💫 About Me
-I'm a professional software developer with seven years of formal and informal experience, focusing on full-stack web application programming across multiple frameworks and architectures. I have a strong background in full-stack application development, including JavaScript, React, Next.js, Node.js, Vue, Python, and Django.
-My passion for AI extends to deep learning and computer vision. I am comfortable working in diverse teams, keeping up with field advancements, and discussing them with colleagues. I am creative and a problem solver who adapts quickly and efficiently, even under pressure.
-<br>
-- Like to make a development document with developing content to use that in the future.
-- Delivering perfect results by deadline.
-- Keeping good communication and work on the client's timezone.
-- Ability for working with any team and prefer to share much knowledge with many developers.
-- Looking for an opportunity to build a long-term relationship with great clients all over the world.
+I am a senior full-stack and blockchain engineer with a strong track record of delivering high-quality web applications and blockchain solutions. With seven years of experience, I specialize in developing robust, scalable software while staying at the forefront of advancements in both full-stack and blockchain technologies. I am passionate about AI and bring a creative, problem-solving mindset to every project, consistently delivering on tight deadlines.
+
+My approach emphasizes collaboration, adaptability, and clear communication, allowing me to work seamlessly within client time zones and diverse teams. I prioritize knowledge-sharing and continuous learning, aiming to drive innovation and success in every project. I am looking to build lasting partnerships with clients worldwide, contributing not only my technical expertise but a commitment to excellence and proactive support.
 
 
 # 🚀 SKILLS
