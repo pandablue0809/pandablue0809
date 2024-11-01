@@ -116,7 +116,6 @@ My approach emphasizes collaboration, adaptability, and clear communication, all
 - Hardhat, Truffle, Remix <br/>
 - Solidity, Rust, Go <br/>
 - Web3.js, Cosm.js <br/>
-- React, Vue.js, Angular <br/>
 </span>
 
 
