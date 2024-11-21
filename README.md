@@ -27,7 +27,11 @@ I am dedicated to building lasting client relationships through technical excell
         <td align="center" width="96">
             <img src="./assets/solana.png" width="48" height="48" alt="ethereum" />
             <br>Solana
-        </td>              
+        </td>
+        <td align="center" width="96">
+            <img src="./assets/coin.png" width="48" height="48" alt="Polygon" />
+            <br>Polygon
+        </td>               
     </tr>
     <tr>
         <td align="center" width="96">
