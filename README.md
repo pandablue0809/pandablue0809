@@ -9,9 +9,17 @@ I am dedicated to building lasting client relationships through technical excell
 <table align="center">
     <tr>
         <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-            <br>Tailwind
+            <img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="Solidity" />
+            <br>Solidity
         </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="Rust" />
+            <br>Rust
+        </td>
+         <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
+            <br>Go
+        </td>        
         <td align="center" width="96">
             <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
             <br>JavaScript
@@ -41,23 +49,7 @@ I am dedicated to building lasting client relationships through technical excell
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
             <br>Node.js
-        </td>
-        <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-            <br>C++
-        </td>
-        <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="Solidity" />
-            <br>Solidity
-        </td>
-        <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="Rust" />
-            <br>Rust
-        </td>
-        <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
-            <br>Go
-        </td>
+        </td>   
     </tr>
 </table>
 <br><br>
