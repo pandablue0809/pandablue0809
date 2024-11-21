@@ -35,12 +35,20 @@ I am dedicated to building lasting client relationships through technical excell
     </tr>
     <tr>
         <td align="center" width="96">
+            <img src="./assets/ton.png" width="48" height="48" alt="ton" />
+            <br>Ton
+        </td> 
+        <td align="center" width="96">
             <img src="./assets/polkadot.png" width="48" height="48" alt="polkadot" />
             <br>Polkadot
+        </td>
+        <td align="center" width="96">
+            <img src="./assets/cryptocurrency.png" width="48" height="48" alt="Aptos" />
+            <br>Aptos
         </td>  
         <td align="center" width="96">
             <img src="./assets/near-protocol.png" width="48" height="48" alt="near" />
-            <br>Near Protocol
+            <br>Near
         </td> 
         <td align="center" width="96">
             <img src="./assets/sui.png" width="48" height="48" alt="sui" />
