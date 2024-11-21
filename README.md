@@ -57,15 +57,7 @@ I am dedicated to building lasting client relationships through technical excell
         <td align="center" width="96">
             <img src="./assets/stellar.png" width="48" height="48" alt="stellar" />
             <br>Stellar
-        </td>          
-        <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="48" height="48" />
-            <br>JavaScript
-        </td> 
-        <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="48" height="48" />
-            <br>TypeScript
-        </td>                       
+        </td>        
     </tr>
     <tr>
         <td align="center" width="96">
@@ -92,10 +84,6 @@ I am dedicated to building lasting client relationships through technical excell
             <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="48" height="48" />
             <br>AWS
         </td>
-        <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="48" height="48" />
-            <br>Docker
-        </td>  
     </tr>
 </table>
 <br><br>
