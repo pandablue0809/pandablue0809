@@ -1,11 +1,64 @@
 # 💫 About Me
-I am a senior full-stack and blockchain engineer with a strong track record of delivering high-quality web applications and blockchain solutions. With seven years of experience, I specialize in developing robust, scalable software while staying at the forefront of advancements in both full-stack and blockchain technologies. I am passionate about AI and bring a creative, problem-solving mindset to every project, consistently delivering on tight deadlines.
+As a senior full-stack and blockchain engineer with seven years of experience, I have a proven record of delivering scalable web applications and innovative blockchain solutions.
+I bring a forward-thinking, problem-solving approach to each project, grounded in a commitment to quality and efficiency. My work style emphasizes collaboration and adaptability, allowing me to excel in diverse, global teams and align with client needs across time zones.
+I am dedicated to building lasting client relationships through technical excellence, proactive support, and a continuous drive for innovation
 
-My approach emphasizes collaboration, adaptability, and clear communication, allowing me to work seamlessly within client time zones and diverse teams. I prioritize knowledge-sharing and continuous learning, aiming to drive innovation and success in every project. I am looking to build lasting partnerships with clients worldwide, contributing not only my technical expertise but a commitment to excellence and proactive support.
 
-
-
-<!--
----
-[![](https://visitcount.itsvg.in/api?id=ilesoviyicon=0&color=0)](https://visitcount.itsvg.in)
--->
+# 💻 My Main Skills:
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+    <tr>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+            <br>Tailwind
+        </td>
+        <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+            <br>JavaScript
+        </td>
+        <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+            <br>TypeScript
+        </td>
+        <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+            <br>React
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+            <br>Next.js
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
+            <br>Vue
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+            <br>Python
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+            <br>Node.js
+        </td>
+        <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+            <br>C++
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="Solidity" />
+            <br>Solidity
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="Rust" />
+            <br>Rust
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
+            <br>Go
+        </td>
+    </tr>
+</table>
+<br><br>
+</div>
