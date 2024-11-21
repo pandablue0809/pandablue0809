@@ -49,7 +49,9 @@ I am dedicated to building lasting client relationships through technical excell
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
             <br>Vue
-        </td>
+        </td>              
+    </tr>
+    <tr>
         <td align="center" width="96">
             <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
             <br>Python
@@ -65,7 +67,7 @@ I am dedicated to building lasting client relationships through technical excell
         <td align="center" width="96">
             <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
             <br>Docker
-        </td>        
+        </td>  
     </tr>
 </table>
 <br><br>
