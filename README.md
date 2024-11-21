@@ -16,9 +16,13 @@ I am dedicated to building lasting client relationships through technical excell
             <img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="Rust" />
             <br>Rust
         </td>
-         <td align="center" width="96">
+        <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
             <br>Go
+        </td> 
+        <td align="center" width="96">
+            <img src="./assets/ethereum.png" width="48" height="48" alt="ethereum" />
+            <br>Ethereum
         </td>        
         <td align="center" width="96">
             <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
@@ -27,13 +31,13 @@ I am dedicated to building lasting client relationships through technical excell
         <td align="center" width="96">
             <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
             <br>TypeScript
-        </td>
+        </td>              
+    </tr>
+    <tr>
         <td align="center" width="96">
             <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
             <br>React
-        </td>       
-    </tr>
-    <tr>
+        </td> 
          <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
             <br>Next.js
