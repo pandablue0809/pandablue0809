@@ -39,13 +39,27 @@ I am dedicated to building lasting client relationships through technical excell
             <br>Polkadot
         </td>  
         <td align="center" width="96">
+            <img src="./assets/near-protocol.png" width="48" height="48" alt="near" />
+            <br>Near Protocol
+        </td> 
+        <td align="center" width="96">
+            <img src="./assets/sui.png" width="48" height="48" alt="sui" />
+            <br>Sui
+        </td>
+        <td align="center" width="96">
+            <img src="./assets/stellar.png" width="48" height="48" alt="stellar" />
+            <br>Stellar
+        </td>          
+        <td align="center" width="96">
             <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="48" height="48" />
             <br>JavaScript
         </td> 
         <td align="center" width="96">
             <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="48" height="48" />
             <br>TypeScript
-        </td> 
+        </td>                       
+    </tr>
+    <tr>
         <td align="center" width="96">
             <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="48" height="48" />
             <br>React
@@ -57,9 +71,7 @@ I am dedicated to building lasting client relationships through technical excell
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
             <br>Vue
-        </td>              
-    </tr>
-    <tr>
+        </td>
         <td align="center" width="96">
             <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="48" height="48" />
             <br>Python
