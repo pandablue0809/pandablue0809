@@ -102,6 +102,10 @@ I am dedicated to building lasting client relationships through technical excell
             <img src="./assets/near-protocol.png" width="48" height="48" alt="near" />
             <br>Near
         </td>
+        <td align="center" width="96">
+            <img src="./assets/hummingbot1673254641715.png" width="48" height="48" alt="Hummingbot" />
+            <br>Hummingbot 
+        </td>
     </tr>
 </table>
 <br><br> 
