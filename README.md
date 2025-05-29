@@ -32,49 +32,7 @@ I am dedicated to building lasting client relationships through technical excell
             <img src="./assets/hashkell.png" width="48" height="48" alt="Haskell" />
             <br>Haskell
         </td>
-    </tr>
-    <tr>
-        <td align="center" width="96">
-            <img src="./assets/ethereum.png" width="48" height="48" alt="ethereum" />
-            <br>Ethereum
-        </td>    
-        <td align="center" width="96">
-            <img src="./assets/solana.png" width="48" height="48" alt="ethereum" />
-            <br>Solana
-        </td>
-        <td align="center" width="96">
-            <img src="./assets/xrp-logo.png" width="48" height="48" alt="XRP" />
-            <br>XRPL
-        </td>
-        <td align="center" width="96">
-            <img src="./assets/coin.png" width="48" height="48" alt="Polygon" />
-            <br>Polygon
-        </td> 
-        <td align="center" width="96">
-            <img src="./assets/ton.png" width="48" height="48" alt="ton" />
-            <br>Ton
-        </td> 
-        <td align="center" width="96">
-            <img src="./assets/polkadot.png" width="48" height="48" alt="polkadot" />
-            <br>Polkadot
-        </td>
-        <td align="center" width="96">
-            <img src="./assets/cryptocurrency.png" width="48" height="48" alt="Aptos" />
-            <br>Aptos
-        </td>  
-        <td align="center" width="96">
-            <img src="./assets/near-protocol.png" width="48" height="48" alt="near" />
-            <br>Near
-        </td> 
-        <td align="center" width="96">
-            <img src="./assets/sui.png" width="48" height="48" alt="sui" />
-            <br>Sui
-        </td>
-        <td align="center" width="96">
-            <img src="./assets/stellar.png" width="48" height="48" alt="stellar" />
-            <br>Stellar
-        </td>        
-    </tr>
+    </tr>    
     <tr>
         <td align="center" width="96">
             <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="48" height="48" />
@@ -99,6 +57,50 @@ I am dedicated to building lasting client relationships through technical excell
         <td align="center" width="96">
             <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="48" height="48" />
             <br>AWS
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="96">
+            <img src="./assets/ethereum.png" width="48" height="48" alt="ethereum" />
+            <br>Ethereum
+        </td>    
+        <td align="center" width="96">
+            <img src="./assets/solana.png" width="48" height="48" alt="ethereum" />
+            <br>Solana
+        </td>
+        <td align="center" width="96">
+            <img src="./assets/xrp-logo.png" width="48" height="48" alt="XRP" />
+            <br>XRPL
+        </td>
+        <td align="center" width="96">
+            <img src="./assets/sui.png" width="48" height="48" alt="sui" />
+            <br>Sui
+        </td>
+        <td align="center" width="96">
+            <img src="./assets/stellar.png" width="48" height="48" alt="stellar" />
+            <br>Stellar
+        </td>
+        <td align="center" width="96">
+            <img src="./assets/cryptocurrency.png" width="48" height="48" alt="Aptos" />
+            <br>Aptos
+        </td>        
+    </tr>
+    <tr>
+        <td align="center" width="96">
+            <img src="./assets/coin.png" width="48" height="48" alt="Polygon" />
+            <br>Polygon
+        </td> 
+        <td align="center" width="96">
+            <img src="./assets/ton.png" width="48" height="48" alt="ton" />
+            <br>Ton
+        </td> 
+        <td align="center" width="96">
+            <img src="./assets/polkadot.png" width="48" height="48" alt="polkadot" />
+            <br>Polkadot
+        </td>          
+        <td align="center" width="96">
+            <img src="./assets/near-protocol.png" width="48" height="48" alt="near" />
+            <br>Near
         </td>
     </tr>
 </table>
