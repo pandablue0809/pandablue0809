@@ -23,7 +23,9 @@ I am dedicated to building lasting client relationships through technical excell
         <td align="center" width="96">
             <img src="./assets/move.png" width="48" height="48" alt="Move" />
             <br>Move
-        </td> 
+        </td>                      
+    </tr>
+    <tr>
         <td align="center" width="96">
             <img src="./assets/ethereum.png" width="48" height="48" alt="ethereum" />
             <br>Ethereum
@@ -33,11 +35,13 @@ I am dedicated to building lasting client relationships through technical excell
             <br>Solana
         </td>
         <td align="center" width="96">
+            <img src="./assets/xrp-logo.png" width="48" height="48" alt="XRP" />
+            <br>XRPL
+        </td>
+        <td align="center" width="96">
             <img src="./assets/coin.png" width="48" height="48" alt="Polygon" />
             <br>Polygon
-        </td>               
-    </tr>
-    <tr>
+        </td> 
         <td align="center" width="96">
             <img src="./assets/ton.png" width="48" height="48" alt="ton" />
             <br>Ton
