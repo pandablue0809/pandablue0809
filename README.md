@@ -23,7 +23,11 @@ I am dedicated to building lasting client relationships through technical excell
         <td align="center" width="96">
             <img src="./assets/move.png" width="48" height="48" alt="Move" />
             <br>Move
-        </td>                      
+        </td>
+        <td align="center" width="96">
+            <img src="./assets/c++.png" width="48" height="48" alt="C++" />
+            <br>C++
+        </td>                    
     </tr>
     <tr>
         <td align="center" width="96">
